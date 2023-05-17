@@ -1,4 +1,18 @@
 # Credit Risk Classification
+## Overview:
+
+The purpose of the analysis was to establish a robust Supervised Machine Learning model that can be used on additional datasets to predict/classify whether a loan is at risk or healthy, based on the features below.
+We will be using this dataset to test two logistic regression models.
+1. The size of the loan
+2. The interest rate
+3. The borrower's income
+4. The ratio of debt to the borrower's income
+5. The number of accounts the borrower has with the lending service
+6. The number of derogatory marks for the borrower (negative information that appear on a borrower's credit report, indicating a history of delinquent payments or other defaults on a loan or credit account.)
+7. The borrower's total debt which includes the loan status - whether the loan was 'Healthy' or 'High-Risk.'
+
+
+
 ## Background
 In this Challenge, you’ll use various techniques to train and evaluate a model based on loan risk. You’ll use a dataset of historical lending activity from a peer-to-peer lending services company to build a model that can identify the creditworthiness of borrowers.
 ### Instructions
